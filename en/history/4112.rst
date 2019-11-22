@@ -24,7 +24,7 @@ Functionality Changes
 
 [*] Object selector Replaced by Object picker on the order edit page.
 
-[*] Shippings: Australia Post: Service codes were updated.
+[*] Shipping methods: Australia Post: Service codes were updated.
 
 [*] Vendors: Vedors switcher: Vedors switcher in admin panel was changed to login into vendor panel as root vendor administrator.
 
